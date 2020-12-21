@@ -1,0 +1,119 @@
+body {
+    font-family: 'Roboto', sans-serif;;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text {
+    text-align: center;
+}
+
+.top {
+    background-color: white;
+    border-top: 1px solid brown;
+    border-width: thick;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.top img {
+    margin-left: 320px;
+}
+
+.top p {
+    font-size: 16px;
+    color: grey;
+}
+
+.top h3 {
+    color: rgb(61, 60, 60);
+}
+
+/* this is for the bottom  */
+.bottom {
+    background-color: white;
+    border-top: 1px solid rgb(198, 218, 18);
+    border-width: thick;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    margin-top: 40px;
+}
+
+.bottom img {
+    margin-left: 320px;
+}
+
+.bottom p {
+    font-size: 16px;
+    color: grey;
+}
+
+.bottom h3 {
+    color: rgb(61, 60, 60);
+}
+
+/* this is for the right */
+.right {
+    background-color: white;
+    border-top: 1px solid rgb(44, 42, 165);
+    border-width: thick;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    margin-top: 100px;
+    height: 200px;
+}
+
+.right img {
+    margin-left: 320px;
+}
+
+.right p {
+    font-size: 16px;
+    color: grey;
+}
+
+.right h3 {
+    color: rgb(61, 60, 60);
+}
+
+/* this is for the left */
+.left {
+    background-color: white;
+    border-top: 1px solid rgb(42, 147, 165);
+    border-width: thick;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    margin-top: 100px;
+    height: 200px;
+}
+
+.left img {
+    margin-left: 320px;
+}
+
+.left p {
+    font-size: 16px;
+    color: grey;
+}
+
+.left h3 {
+    color: rgb(61, 60, 60);
+}
+
+.text p,h1 {
+    color: grey;
+}
+
+.text h2 {
+    color: rgb(70, 69, 69);
+}
